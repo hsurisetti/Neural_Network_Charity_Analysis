@@ -15,26 +15,26 @@ The purpose of this analysis is to create a deep learning neural network model t
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/1.8.png" width=380 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/1.9.png" width=380 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/1.10.png" width=380 />
-<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/1.11.png" width=380 />
+<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/11.png" width=380 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/1.12.png" width=380 />
 
 ### Deliverable 2 Results :
 
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/2.1.png" width=410 />
-<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/2.2.png" width=410 />
+<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/1.png" width=410 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/2.3.png" width=380 />
 
 ### Deliverable 3 Results :
 
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/3.1.png" width=410 />
-<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/3.2.png" width=410 />
+<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/2.png" width=410 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/3.3.png" width=380 />
 
 
-<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/4.1.png" width=410 />
+<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/3.png" width=410 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/4.2.png" width=410 />
 
-<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/5.1.png" width=410 />
+<img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/4.png" width=410 />
 <img src="https://github.com/hsurisetti/Neural_Network_Charity_Analysis/blob/main/screenshots/5.2.png" width=410 />
 
 ## Data Preprocessing:
